@@ -1,5 +1,8 @@
 # cosmic-parser
-A parsing code to help extract valid inputs from the COSMIC Database to be used for CRAVAT
+Parsing code to help extract valid inputs from the COSMIC Database to be used for CRAVAT
+
+# cosmic-organizer
+Organizing code that helps count and sort data from the COSMIC Database
 
 ## Get a gene file to analyze here: [COSMIC Database](https://cancer.sanger.ac.uk/cosmic)
 1. Sign up for an account
